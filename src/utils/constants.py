@@ -1,0 +1,1 @@
+DB_NAME = "wifi_monitor.db"
